@@ -16,7 +16,8 @@ export default function HomeScreen() {
       <Link href="/03_image">Image Example</Link>
       <Link href="/04_text-input">TextInput Example</Link>
       <Link href="/05_scroll-view">ScrollView Example</Link>
-      <Link href="/06_style-sheet">StyleSheet Example</Link>
+      <Link href="/06_scroll-view_table">ScrollView Table Example</Link>
+      <Link href="/07_style-sheet">StyleSheet Example</Link>
     </View>
   );
 }
